@@ -14,5 +14,3 @@ I’m a Computer Science student, Web Developer, and Machine Learning Engineer.<
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
