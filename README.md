@@ -1,4 +1,4 @@
-Hi , I am Amna Sharif !!
+# 💫 Hi , I am Amna Sharif !!:
 <br><br>I’m a Computer Science student, Web Developer, and Machine Learning Engineer.<br>I enjoy building websites, smart applications, and solving real-world problems with technology.<br><br>I work with:<br>- Web Development<br>- Machine Learning & AI<br>- Python, JavaScript, and modern frameworks<br>- APIs and databases<br><br>I like learning new technologies and improving my skills by building projects.<br>My goal is to create useful, simple, and innovative solutions.<br><br>Always learning. Always building.
 
 
