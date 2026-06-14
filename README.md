@@ -10,7 +10,7 @@ Hi , I am Amna Sharif !!<br><br>I’m a Computer Science student, Web Developer,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=amna-sharif&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=amna-sharif&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amna-sharif&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
